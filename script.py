@@ -1,3 +1,5 @@
+#playing with lists
+
 items = range(10)
 print("List of Items 1-10: ", list(items))
 
